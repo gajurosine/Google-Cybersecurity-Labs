@@ -10,5 +10,5 @@ Welcome to my technical journal. This repository tracks my journey through the G
 
 ## 🛠️ Skills Demonstrated
 * Identifying Phishing & Social Engineering
-* Understanding the CIA Triad (Confidentiality, Integrity, Availability)
+* Understanding the CIA Triad (Confidentiality, Integrity, Availability) (In my first session, I learned how to identify which part of the CIA triad is under attack).
 * Defining Entry-Level Security Analyst Roles
